@@ -31,16 +31,34 @@ Exercice 1
 
 mcd:
 
-![alt text](image-5.png)
+![alt text](image-12.png)
 
-mld depuis analyse:
-
-![alt text](image-4.png)
-
-mld correct:
-![alt text](image-9.png)
+mld:
+![alt text](image-13.png)
 
 mpd:
 
 ![alt text](image-6.png)
-![alt text](image-8.png)
+![alt text](image-14.png)
+
+
+Exercice 2
+
+mpd:
+
+![alt text](image-15.png)
+
+mcd:
+
+![alt text](image-11.png)
+
+mld:
+
+![alt text](image-16.png)
+
+Dictionnaire:
+
+![alt text](image-17.png)
+
+
+Exercice 3:
